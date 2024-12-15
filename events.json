@@ -1,0 +1,306 @@
+{
+    "locations": {
+        "Большая труба": [
+            {
+                "name": "Пустынный волк",
+                "loot": {
+                    "item": "Старый нож",
+                    "value": "40 крышек",
+                    "effect": "+1 к Ловкости"
+                },
+                "checks": {
+                    "strength": 2,
+                    "dexterity": 3,
+                    "intelligence": 2
+                },
+                "dice_roll": "2+"
+            },
+            {
+                "name": "Наркоман",
+                "loot": {
+                    "item": "Пустая бутылка",
+                    "value": "10 крышек"
+                },
+                "checks": {
+                    "strength": 2,
+                    "dexterity": 3,
+                    "intelligence": 2
+                },
+                "dice_roll": "3+"
+            },
+            {
+                "name": "Кровавый варан",
+                "loot": {
+                    "item": "Репа",
+                    "value": "50 крышек",
+                    "effect": "Лечение 30% здоровья"
+                },
+                "checks": {
+                    "strength": 2,
+                    "dexterity": 3,
+                    "intelligence": 2
+                },
+                "dice_roll": "2+"
+            },
+            {
+                "name": "Проповедник пустоши",
+                "loot": {
+                    "item": "Книга 'Как жить в пустыне'",
+                    "value": "25 крышек"
+                },
+                "checks": {
+                    "strength": 3,
+                    "dexterity": 3,
+                    "intelligence": 4
+                },
+                "dice_roll": "3+"
+            },
+            {
+                "name": "Охотник пустошей",
+                "loot": {
+                    "item": "Металлический лом",
+                    "value": "30 крышек",
+                    "effect": "+1 к Интеллекту"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Старый выродок",
+                "loot": {
+                    "item": "Вещмешок",
+                    "value": "75 крышек",
+                    "effect": "+1 к Силе"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Грязевой прыгун",
+                "loot": {
+                    "item": "30 крышек"
+                },
+                "checks": {
+                    "strength": 2,
+                    "dexterity": 3,
+                    "intelligence": 2
+                },
+                "dice_roll": "2+"
+            },
+            {
+                "name": "Рой радиоактивных пчел",
+                "loot": {
+                    "item": "Шприц с обезболивающим",
+                    "value": "40 крышек",
+                    "effect": "Лечение 100% здоровья"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Скорченный гиенозавр",
+                "loot": {
+                    "item": "10 крышек"
+                },
+                "checks": {
+                    "strength": 2,
+                    "dexterity": 3,
+                    "intelligence": 2
+                },
+                "dice_roll": "2+"
+            },
+            {
+                "name": "Детёныш гнусозавра",
+                "loot": {
+                    "item": "Гаечный ключ",
+                    "value": "25 крышек",
+                    "effect": "+1 к Интеллекту"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Кровожадный барсук",
+                "loot": {
+                    "item": "Медицинская аптечка",
+                    "value": "60 крышек",
+                    "effect": "Лечение 100% здоровья"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Радиационный бык",
+                "loot": {
+                    "item": "Продовольствие",
+                    "value": "50 крышек",
+                    "effect": "Лечение 30% здоровья"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            }
+        ],
+        "Северные ворота": [
+            {
+                "name": "Крысомутант",
+                "loot": {
+                    "item": "Старый нож",
+                    "value": "40 крышек",
+                    "effect": "+1 к Ловкости"
+                },
+                "checks": {
+                    "strength": 2,
+                    "dexterity": 3,
+                    "intelligence": 2
+                },
+                "dice_roll": "2+"
+            },
+            {
+                "name": "Радскорпион",
+                "loot": {
+                    "item": "20 крышек"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Гуль",
+                "loot": {
+                    "item": "Медикаменты",
+                    "value": "60 крышек",
+                    "effect": "Лечение 30% здоровья"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Радиоактивный паук",
+                "loot": {
+                    "item": "Металлический лом",
+                    "value": "30 крышек",
+                    "effect": "+1 к Интеллекту"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Лорд Скорп (босс)",
+                "loot": {
+                    "item": "Ржавый топор",
+                    "value": "50 крышек",
+                    "effect": "+2 к Силе"
+                },
+                "checks": {
+                    "strength": 5,
+                    "dexterity": 6,
+                    "intelligence": 5
+                },
+                "dice_roll": "6+"
+            },
+            {
+                "name": "Радскорпион",
+                "loot": {
+                    "item": "Шприц с обезболивающим",
+                    "value": "40 крышек",
+                    "effect": "Лечение 100% здоровья"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Крысомутант",
+                "loot": {
+                    "item": "10 крышек"
+                },
+                "checks": {
+                    "strength": 2,
+                    "dexterity": 3,
+                    "intelligence": 2
+                },
+                "dice_roll": "2+"
+            },
+            {
+                "name": "Гуль",
+                "loot": {
+                    "item": "Гаечный ключ",
+                    "value": "25 крышек",
+                    "effect": "+1 к Интеллекту"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Гуль",
+                "loot": {
+                    "item": "Медицинская аптечка",
+                    "value": "60 крышек",
+                    "effect": "Лечение 100% здоровья"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            },
+            {
+                "name": "Радиоактивный паук",
+                "loot": {
+                    "item": "Продовольствие",
+                    "value": "50 крышек",
+                    "effect": "Лечение 30% здоровья"
+                },
+                "checks": {
+                    "strength": 4,
+                    "dexterity": 5,
+                    "intelligence": 4
+                },
+                "dice_roll": "4+"
+            }
+        ]
+    }
+}
